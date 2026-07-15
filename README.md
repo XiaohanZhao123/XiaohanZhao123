@@ -47,6 +47,8 @@ My current research focuses on **agentic data**: data and executable environment
 
 ## ⭐ Featured projects
 
+- **[Dive into Claude Code](https://github.com/VILA-Lab/Dive-into-Claude-Code)** [![GitHub stars](https://img.shields.io/github/stars/VILA-Lab/Dive-into-Claude-Code?style=flat&label=%E2%98%85&color=555)](https://github.com/VILA-Lab/Dive-into-Claude-Code/stargazers)\
+  A systematic analysis of Claude Code and its design lessons for AI agent systems.
 - **[FigMirror](https://github.com/VILA-Lab/FigMirror)** [![GitHub stars](https://img.shields.io/github/stars/VILA-Lab/FigMirror?style=flat&label=%E2%98%85&color=555)](https://github.com/VILA-Lab/FigMirror/stargazers)\
   Plots new data in the style of a reference figure and returns editable Matplotlib code.
 - **[M-Attack v1](https://github.com/VILA-Lab/M-Attack)** [![GitHub stars](https://img.shields.io/github/stars/VILA-Lab/M-Attack?style=flat&label=%E2%98%85&color=555)](https://github.com/VILA-Lab/M-Attack/stargazers)\
