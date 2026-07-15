@@ -64,5 +64,3 @@ My current research focuses on **agentic data** — the data and executable envi
 
 - Email: [xiaohan.zhao@mbzuai.ac.ae](mailto:xiaohan.zhao@mbzuai.ac.ae)
 - Google Scholar: [PliLuD4AAAAJ](https://scholar.google.com/citations?user=PliLuD4AAAAJ&hl=en)
-
-<!-- profile-refresh -->
