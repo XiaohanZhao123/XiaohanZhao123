@@ -47,12 +47,12 @@ My current research focuses on **agentic data**: data and executable environment
 
 ## ⭐ Featured projects
 
-- **[FigMirror](https://github.com/VILA-Lab/FigMirror)** [![GitHub stars](https://img.shields.io/github/stars/VILA-Lab/FigMirror?style=flat-square&logo=github&label=stars&color=555)](https://github.com/VILA-Lab/FigMirror/stargazers)\
-  Plots new data in the style of a reference paper figure and returns editable Matplotlib code plus a camera-ready PDF.
-- **[3D-Dataset-Pruning](https://github.com/XiaohanZhao123/3D-Dataset-Pruning)** [![GitHub stars](https://img.shields.io/github/stars/XiaohanZhao123/3D-Dataset-Pruning?style=flat-square&logo=github&label=stars&color=555)](https://github.com/XiaohanZhao123/3D-Dataset-Pruning/stargazers)\
-  Official implementation of *Exploring 3D Dataset Pruning*, with representation-aware selection and per-class retention quotas for long-tailed point-cloud data.
-- **[M-Attack](https://github.com/VILA-Lab/M-Attack)** [![GitHub stars](https://img.shields.io/github/stars/VILA-Lab/M-Attack?style=flat-square&logo=github&label=stars&color=555)](https://github.com/VILA-Lab/M-Attack/stargazers)\
-  Official code for M-Attack v1, a transferable black-box attack baseline for large vision-language models.
+- **[FigMirror](https://github.com/VILA-Lab/FigMirror)** [![GitHub stars](https://img.shields.io/github/stars/VILA-Lab/FigMirror?style=flat&label=%E2%98%85&color=555)](https://github.com/VILA-Lab/FigMirror/stargazers)\
+  Plots new data in the style of a reference figure and returns editable Matplotlib code.
+- **[M-Attack v1](https://github.com/VILA-Lab/M-Attack)** [![GitHub stars](https://img.shields.io/github/stars/VILA-Lab/M-Attack?style=flat&label=%E2%98%85&color=555)](https://github.com/VILA-Lab/M-Attack/stargazers)\
+  Official code for a transferable black-box attack on large vision-language models.
+- **[3D-Dataset-Pruning](https://github.com/XiaohanZhao123/3D-Dataset-Pruning)** [![GitHub stars](https://img.shields.io/github/stars/XiaohanZhao123/3D-Dataset-Pruning?style=flat&label=%E2%98%85&color=555)](https://github.com/XiaohanZhao123/3D-Dataset-Pruning/stargazers)\
+  Official code for *Exploring 3D Dataset Pruning*, with representation-aware point-cloud selection.
 
 ## 💼 Experience
 
